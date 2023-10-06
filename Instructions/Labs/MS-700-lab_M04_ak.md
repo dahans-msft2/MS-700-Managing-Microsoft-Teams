@@ -40,7 +40,7 @@ After you complete this lab, you will be able to:
 
 - Create resource accounts and auto attendants
 
-- Access and navigate through call analytics ad CQD dashoards
+- Access and navigate through call analytics ad CQD dashboards
 
 ## **Lab Setup**
 
@@ -62,7 +62,7 @@ As part of your pilot project for setting up the events and meetings in your org
 
 3. Select the **Global (Org-wide default)** policy under **Manage policies**.
 
-4. On the **Meetings policies** page, turn **Off** the **Cloud recording** setting under the **Recording &amp; transcription** section.
+4. On the **Meetings policies** page, turn **Off** the **Meeting recording** setting under the **Recording &amp; transcription** section.
 
 5. Select **Save**.
 
@@ -124,7 +124,7 @@ Contoso Ltd. wants to broadcast video and meeting content to large online audien
 
 	- Who can join scheduled live events: **Everyone in the organization**
 
-	- Who can record an event: **Organizer can record**
+	- Record an event: **Organizer can record**
 
 5. Select **Save**.
 
@@ -149,9 +149,9 @@ The IT department wants to host a company-wide meeting to answer employees’ qu
 	- **webinar title**: IT Office Hours
 	- **Start/End**: Select a time close to your current time 
 	- **Give your webinar a description**: Company-wide meeting to answer questions regarding the new reporting system.
-	- **Presenters**: Patti Fernandez, Allan Deyoung
 	- **Co-organizers**: Diego Siciliani
-	- **Event access**: Private
+	- **Presenters**: Patti Fernandez, Allan Deyoung
+	- **Attendees**: Your organization
 
 	**Note**: When you save the event, invites will be sent to presenters and co-organizers automatically. 
 
@@ -164,12 +164,11 @@ The IT department wants to host a company-wide meeting to answer employees’ qu
 
 		*What is your question about the new reporting system?*
 		 
-
 6. Preview the registration site by selecting **View draft**. The preview of the registration page opens in a new tab. After reviewing the site, close the tab.
 
 7. Publish the Registration site and share the link:
 
-	1. On the **IT Office Hours | Microsoft Teams** tab, select **Publish site** and then selet **Publish** to activate the Webinar registration site.
+	1. On the **IT Office Hours | Microsoft Teams** tab, select **Publish site** and then select **Publish** to activate the Webinar registration site.
 
 	2. Copy the **Share link**, close the **All set and ready to share** window and the **IT Office Hours | Microsoft Teams** tab.
 
